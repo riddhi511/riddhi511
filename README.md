@@ -1,91 +1,79 @@
-<!-- Astronaut Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/VMXlA5x0w34H5oLk1k/giphy.gif" width="280" alt="Astronaut floating"/>
+  <img src="https://media.istockphoto.com/id/1367349870/vector/astronaut-with-balloons-and-planets-on-the-background-of-the-space-vector-illustration.jpg?s=612x612&w=0&k=20&c=rX6w28ZKXTp-xQEaq1DGl-AdrVE1RX4KpRDyfKL9hTk=" alt="Astronaut" width="400"/>
 </p>
 
-<!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Riddhi+H.+Soni+👋;MS+CS+@+Pace+University;Software+Engineer+%7C+AI+%26+Full-Stack+Developer)](https://git.io/typing-svg)
+<h1 align="center"> Hello there! I'm Riddhi Soni </h1>
+
+<h2 > 🛠 TECH STACK </h2>
+
+### 🎨 Front-End  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
 
 ---
 
-# 👩‍💻 About Me  
-🎓 MS in Computer Science @ Pace University (NYC)  
-💻 Passionate about **Software Engineering | Algorithms | AI/ML**  
-🚀 Building projects in **Full-Stack Development, Unity Games, and Research**  
-🎯 Goal: SWE Intern @ FAANG + PhD in Technology Management  
+### ⚙️ Back-End  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  
 
 ---
 
-## ✨ Featured Projects  
-
-| Project | Description | Tech | Demo |
-|---------|-------------|------|------|
-| 🔍 [Pathfinding Visualizer](https://riddhi511.github.io/PathfindingVisualizer/) | Visualizes BFS, DFS, Dijkstra, A*, Greedy, Bidirectional BFS | HTML, CSS, JS | [Live Demo](https://riddhi511.github.io/PathfindingVisualizer/) |
-| 📊 Stock Trading Platform | Zerodha-style full-stack trading app | React, Node.js, MongoDB | *(deploying soon)* |
-| 🎮 Unity Games | Color Catcher, ShadowStrike FPS, Keypocalypse | Unity, C# | *(itch.io links coming)* |
-| ☕ [SmartSips Coffee App](#) | Mobile PWA coffee ordering system | Ionic, Firebase | *(live link soon)* |
-| 🎟 Eventify | Capstone event-ticketing platform | React, Node.js, MongoDB | *(coming soon)* |
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-
-### 💻 Programming Languages  
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=for-the-badge) 
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge) 
-![Java](https://img.shields.io/badge/Java-red?logo=coffeescript&logoColor=white&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-
----
-
-### 🌐 Web & App Development  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) 
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge)
+### ☁️ Cloud Platforms & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 ---
 
 ### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
 ---
 
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-
-</p>
+### 🤖 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+### 🧰 Tools & Miscellaneous  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+
+---
+
+ <h2 align="center">📊 GitHub Stats & Streaks</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhi511&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi511&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riddhi511&show_icons=true&theme=midnight-purple&hide_border=false&rank_icon=github&cache_seconds=86400"
+    height="190" />
+  <img
+    src="https://streak-stats.demolab.com?user=riddhi511&theme=midnight-purple&hide_border=false"
+    height="190" />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi511&layout=compact&langs_count=8&card_width=420&theme=midnight-purple&hide_border=false&cache_seconds=86400"
+    height="210" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=riddhi511&theme=onedark&no-bg=true&no-frame=false&margin-w=12&row=1&column=6"
+  />
+</p>
+
 
 ---
 
-## 🌐 Connect With Me  
+<div align="center"> 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/riddhihsoni/)  
-📧 **riddhi.h.soni@pace.edu**
+📧 **riddhisoni686@gmail.com**
+
+</div>
 
 ---
 
-<!-- Footer Wave -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=100&section=footer"/>
+  <img src="https://wallpapers.com/images/hd/parallax-background-jim1uavi6whbcns0.jpg" alt="footer" width="800" height="200px"/>
 </p>
+
+---

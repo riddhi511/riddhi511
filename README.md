@@ -1,14 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I’m Riddhi H. Soni  
+# 👋 Hello, I am Riddhi H. Soni  
 
-🎓 MS in Computer Science @ Pace University (NYC)  
+🎓 Master of Science Computer Science @ Pace University (NYC)  
 💻 Passionate about **Software Engineering | Algorithms | AI/ML**  
 🚀 Exploring full-stack development, system design, and research  
-🎯 Goal: SWE Intern @ FAANG + PhD in Technology Management  
+🎯 Goal: Full time SWE role @ FAANG + PhD in Technology Management  
 
 ---
 
@@ -51,7 +51,7 @@
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhihsoni/)  
-📧 riddhi.h.soni@pace.edu  
+📧 riddhisoni686@gmail.com  
 
 ---
 

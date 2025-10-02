@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 # 👋 Hello, I am Riddhi H. Soni  

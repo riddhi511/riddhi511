@@ -1,14 +1,23 @@
-<!-- Banner -->
+<!-- Animated Astronaut -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://i.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
 </p>
 
-# 👋 Hello, I am Riddhi H. Soni  
+<!-- Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Riddhi+H.+Soni+👋;MS+CS+@+Pace+University+%7C+Software+Engineer;Exploring+AI%2C+Full-Stack%2C+and+Games)](https://git.io/typing-svg)
 
-🎓 Master of Science Computer Science @ Pace University (NYC)  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=333333" />
+</p>
+
+---
+
+# 👋 About Me  
+🎓 MS in Computer Science @ Pace University (NYC)  
 💻 Passionate about **Software Engineering | Algorithms | AI/ML**  
-🚀 Exploring full-stack development, system design, and research  
-🎯 Goal: Full time SWE role @ FAANG + PhD in Technology Management  
+🚀 Building projects in **Full-Stack Development, Unity Games, and Research**  
+🎯 Goal: SWE Intern @ FAANG + PhD in Technology Management  
 
 ---
 
@@ -20,6 +29,7 @@
 | 📊 Stock Trading Platform | Zerodha-style full-stack trading app | React, Node.js, MongoDB | *(deploying soon)* |
 | 🎮 Unity Games | Color Catcher, ShadowStrike FPS, Keypocalypse | Unity, C# | *(itch.io links coming)* |
 | ☕ [SmartSips Coffee App](#) | Mobile PWA coffee ordering system | Ionic, Firebase | *(live link soon)* |
+| 🎟 Eventify | Capstone event-ticketing platform | React, Node.js, MongoDB | *(coming soon)* |
 
 ---
 
@@ -62,25 +72,9 @@
 
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhi511&show_icons=true&theme=radical" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi511&theme=radical" height="150"/>  
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhihsoni/)  
-📧 riddhisoni686@gmail.com  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+  <img src="https://github-readme-stats.v

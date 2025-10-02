@@ -1,19 +1,14 @@
-<!-- Animated Astronaut -->
+<!-- Astronaut Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/VMXlA5x0w34H5oLk1k/giphy.gif" width="280" alt="Astronaut floating"/>
 </p>
 
 <!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Riddhi+H.+Soni+👋;MS+CS+@+Pace+University+%7C+Software+Engineer;Exploring+AI%2C+Full-Stack%2C+and+Games)](https://git.io/typing-svg)
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=200&section=header&text=Riddhi%20H.%20Soni&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=333333" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Riddhi+H.+Soni+👋;MS+CS+@+Pace+University;Software+Engineer+%7C+AI+%26+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ---
 
-# 👋 About Me  
+# 👩‍💻 About Me  
 🎓 MS in Computer Science @ Pace University (NYC)  
 💻 Passionate about **Software Engineering | Algorithms | AI/ML**  
 🚀 Building projects in **Full-Stack Development, Unity Games, and Research**  
@@ -77,4 +72,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.v
+  <img src="https://github-readme-stats.vercel.app/api?username=riddhi511&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi511&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/riddhihsoni/)  
+📧 **riddhi.h.soni@pace.edu**
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:FFB6C1&height=100&section=footer"/>
+</p>
